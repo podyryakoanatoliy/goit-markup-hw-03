@@ -64,8 +64,7 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  display: inline-block;
-  margin-bottom: 16px;
+
 }
 
 .logo-part {
@@ -251,7 +250,6 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  margin-top: 32px;
   margin-bottom: 8px;
 }
 
@@ -261,7 +259,6 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  padding-bottom: 32px;
 }
 
 .portfolio {
@@ -320,6 +317,19 @@ ul {
   padding-top: 100px;
 }
 
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  margin-right: 76px;
+  display: inline-block;
+  margin-bottom: 16px;
+}
 
 .logo-footer-part {
   font-weight: 700;
